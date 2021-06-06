@@ -58,6 +58,7 @@
 | Plasma-cut |     PX2     | X axis | X Belt tensioner               |
 | Plasma-cut |     PZ0     | Z axis | Extruder plate and Z carriage  |
 | Plasma-cut |     PM0     |   -    | Lateral support                |
+| Plasma-cut |     PM1     | Y axis | **CNC** Y front plate          |
 
 
 ## Complete list
